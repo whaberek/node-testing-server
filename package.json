@@ -1,0 +1,19 @@
+{
+  "name": "mockup-service",
+  "version": "0.0.0",
+  "description": "Application for simple crud operation",
+  "main": "start.js",
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "^4.16.4",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.2",
+    "morgan": "^1.9.1"
+  }
+}
