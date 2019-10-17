@@ -31,9 +31,7 @@ app.use(morgan('dev'));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-app.use('/api/v1', require('./modules/tips/tips.router'));
 app.use('/api/v1', require('./modules/auth/auth.router'));
-app.use('/api/v1', require('./modules/induction/induction.router'));
 
 const PORT = process.env.PORT || 5000;
 
