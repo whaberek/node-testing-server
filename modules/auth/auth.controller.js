@@ -10,7 +10,9 @@ const authController = {
 			});
 		} else {
 			res.json({
-				data: 'Invalid request data',
+				error: 6,
+				message: 'Cannot login user',
+				status: 'UNAUTHORIZED',
 			});
 		}
 	},
