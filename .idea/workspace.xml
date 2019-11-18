@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="Change error login response">
-      <change afterPath="$PROJECT_DIR$/modules/items/items.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/items/items.mocks.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/items/items.router.js" afterDir="false" />
+    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/start.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules/items/items.mocks.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/items/items.mocks.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +50,7 @@
       <updated>1571239523763</updated>
       <workItem from="1571239525277" duration="1748000" />
       <workItem from="1571302209633" duration="2813000" />
-      <workItem from="1574094136202" duration="441000" />
+      <workItem from="1574094136202" duration="1106000" />
     </task>
     <task id="LOCAL-00001" summary="changes in ./idea">
       <created>1571306444934</created>
@@ -78,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571308421161</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Change error login response">
+      <created>1574094606310</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1574094606310</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

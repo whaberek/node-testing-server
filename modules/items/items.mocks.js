@@ -3,6 +3,7 @@ const exampleData = {
   "businessLineType" : "example",
   "chargeable" : false,
   "foo" : false,
+  "location:": "Example location",
   "countryCode" : "IT",
   "example" : "Agency",
   "product" : {
