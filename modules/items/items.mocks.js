@@ -4,7 +4,7 @@ const exampleData = {
   "chargeable" : false,
   "foo" : false,
   "location": "Example location",
-  "countryCode" : "IT",
+  "countryCode" : "DE",
   "example" : "Agency",
   "product" : {
     "example" : {
