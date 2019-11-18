@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="">
+    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="Change error login response">
+      <change afterPath="$PROJECT_DIR$/modules/items/items.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/items/items.mocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/items/items.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules/auth/auth.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/auth/auth.controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/start.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +23,13 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../scope-one" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules" />
     <property name="nodejs_package_manager_path" value="yarn" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,6 +55,7 @@
       <updated>1571239523763</updated>
       <workItem from="1571239525277" duration="1748000" />
       <workItem from="1571302209633" duration="2813000" />
+      <workItem from="1574094136202" duration="441000" />
     </task>
     <task id="LOCAL-00001" summary="changes in ./idea">
       <created>1571306444934</created>
@@ -85,7 +96,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

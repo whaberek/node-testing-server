@@ -32,6 +32,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
 app.use('/api/v1', require('./modules/auth/auth.router'));
+app.use('/api/v1', require('./modules/items/items.router'));
 
 const PORT = process.env.PORT || 5000;
 
