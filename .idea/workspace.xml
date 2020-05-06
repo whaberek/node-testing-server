@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="">
+    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="refactor mistake">
+      <change afterPath="$PROJECT_DIR$/modules/forms/forms.controller.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules/forms/forms.router.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/start.js" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,27 +17,22 @@
   </component>
   <component name="ProjectId" id="1SI80ChF5KojRdrfzTKVWQVIa8d" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="MTConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modules" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +46,12 @@
       <updated>1571239523763</updated>
       <workItem from="1571239525277" duration="1748000" />
       <workItem from="1571302209633" duration="2813000" />
-      <workItem from="1574094136202" duration="1856000" />
+      <workItem from="1574094136202" duration="2496000" />
+      <workItem from="1574412926735" duration="1743000" />
+      <workItem from="1574626897507" duration="207000" />
+      <workItem from="1574679030367" duration="99000" />
+      <workItem from="1588620643560" duration="1382000" />
+      <workItem from="1588789040431" duration="1399000" />
     </task>
     <task id="LOCAL-00001" summary="changes in ./idea">
       <created>1571306444934</created>
@@ -86,37 +88,50 @@
       <option name="project" value="LOCAL" />
       <updated>1574096057291</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="refactor mistake">
+      <created>1574113436063</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574113436063</updated>
+    </task>
+    <task id="LOCAL-00007" summary="refactor mistake">
+      <created>1574113481644</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574113481644</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/../scope-one/node_modules/wait-for-expect/lib/toBeInRangeMatcher.d.js" />
-        <option value="$PROJECT_DIR$/../scope-one/node_modules/wait-for-expect/lib/waitForExpect.spec.d.js" />
-        <option value="$PROJECT_DIR$/../scope-one/node_modules/wait-for-expect/lib/index.d.js" />
-      </list>
-    </option>
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="changes in ./idea" />
     <MESSAGE value="Remove unnecessary routes" />
     <MESSAGE value="Change error login response" />
     <MESSAGE value="add location" />
-    <option name="LAST_COMMIT_MESSAGE" value="add location" />
+    <MESSAGE value="refactor mistake" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor mistake" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="417" y="23" key="CommitChangelistDialog2" timestamp="1588621692670">
+      <screen x="0" y="23" width="1680" height="982" />
+    </state>
+    <state x="417" y="23" key="CommitChangelistDialog2/0.23.1680.982/-579.-1417.2560.1417@0.23.1680.982" timestamp="1588621692670" />
   </component>
 </project>
