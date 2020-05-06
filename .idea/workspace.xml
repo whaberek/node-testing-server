@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="refactor mistake">
-      <change afterPath="$PROJECT_DIR$/modules/forms/forms.controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules/forms/forms.router.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/start.js" beforeDir="false" afterPath="$PROJECT_DIR$/start.js" afterDir="false" />
+    <list default="true" id="fd87f280-d047-4db4-853e-c2c29a70eacc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/modules/forms/forms.controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/forms/forms.controller.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +48,7 @@
       <workItem from="1574626897507" duration="207000" />
       <workItem from="1574679030367" duration="99000" />
       <workItem from="1588620643560" duration="1382000" />
-      <workItem from="1588789040431" duration="1399000" />
+      <workItem from="1588789040431" duration="1732000" />
     </task>
     <task id="LOCAL-00001" summary="changes in ./idea">
       <created>1571306444934</created>
@@ -102,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574113481644</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Add form module">
+      <created>1588794658568</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1588794658568</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,12 +130,17 @@
     <MESSAGE value="Change error login response" />
     <MESSAGE value="add location" />
     <MESSAGE value="refactor mistake" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor mistake" />
+    <MESSAGE value="Add form module" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add form module" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="417" y="23" key="CommitChangelistDialog2" timestamp="1588621692670">
+    <state x="417" y="23" key="CommitChangelistDialog2" timestamp="1588794658477">
       <screen x="0" y="23" width="1680" height="982" />
     </state>
-    <state x="417" y="23" key="CommitChangelistDialog2/0.23.1680.982/-579.-1417.2560.1417@0.23.1680.982" timestamp="1588621692670" />
+    <state x="417" y="23" key="CommitChangelistDialog2/0.23.1680.982/-579.-1417.2560.1417@0.23.1680.982" timestamp="1588794658477" />
+    <state x="440" y="249" key="Vcs.Push.Dialog.v2" timestamp="1588794660764">
+      <screen x="0" y="23" width="1680" height="982" />
+    </state>
+    <state x="440" y="249" key="Vcs.Push.Dialog.v2/0.23.1680.982/-579.-1417.2560.1417@0.23.1680.982" timestamp="1588794660764" />
   </component>
 </project>
